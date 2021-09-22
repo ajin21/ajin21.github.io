@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ajin21.github.io</id>
     <title>阿金世界</title>
-    <updated>2021-09-22T03:15:52.577Z</updated>
+    <updated>2021-09-22T03:25:22.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ajin21.github.io"/>
     <link rel="self" href="https://ajin21.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://ajin21.github.io/images/avatar.png</logo>
     <icon>https://ajin21.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 阿金世界</rights>
+    <entry>
+        <title type="html"><![CDATA[友链]]></title>
+        <id>https://ajin21.github.io/post/you-lian/</id>
+        <link href="https://ajin21.github.io/post/you-lian/">
+        </link>
+        <updated>2021-09-22T03:25:00.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://github.com/getgridea/gridea" target="_blank">Ajin</a><br>
+<a href="https://github.com/getgridea/gridea" target="_blank">Ajin</a><br>
+<a href="https://github.com/getgridea/gridea" target="_blank">Ajin</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ceshi]]></title>
         <id>https://ajin21.github.io/post/ceshi/</id>
