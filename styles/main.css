@@ -1886,7 +1886,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-theme-color-second {
-          background: #dddddd!important;
+          background: #f3f3f3!important;
         }
         
         .gt-bg-content-color-first {
@@ -1910,7 +1910,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-second {
-          color: #dddddd!important;
+          color: #f3f3f3!important;
         }
         
         .gt-c-content-color-first {
@@ -1976,6 +1976,6 @@ code::-webkit-scrollbar-thumb:hover {
         
         .search-input {
           color: #5f6169!important;
-          background-color: #dddddd!important;
+          background-color: #f3f3f3!important;
         }
          
