@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ajin21.github.io</id>
     <title>阿金世界</title>
-    <updated>2021-09-22T03:52:15.761Z</updated>
+    <updated>2021-09-22T03:54:03.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ajin21.github.io"/>
     <link rel="self" href="https://ajin21.github.io/atom.xml"/>
@@ -19,15 +19,6 @@
         <content type="html"><![CDATA[<p><a href="https://github.com/getgridea/gridea" target="_blank">Ajin</a><br>
 <a href="https://github.com/getgridea/gridea" target="_blank">Ajin</a><br>
 <a href="https://github.com/getgridea/gridea" target="_blank">Ajin</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ceshi]]></title>
-        <id>https://ajin21.github.io/post/ceshi/</id>
-        <link href="https://ajin21.github.io/post/ceshi/">
-        </link>
-        <updated>2021-09-22T03:00:22.000Z</updated>
-        <content type="html"><![CDATA[<p>今天是个好日子，这是我的第一哦i按博客文章，</p>
 ]]></content>
     </entry>
     <entry>
