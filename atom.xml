@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ajin21.github.io</id>
     <title>阿金世界</title>
-    <updated>2021-09-22T15:05:20.281Z</updated>
+    <updated>2021-09-22T15:07:48.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ajin21.github.io"/>
     <link rel="self" href="https://ajin21.github.io/atom.xml"/>
-    <subtitle>记录生活 || 更多精彩  友链 &lt;a href=&quot;https://iao.su/&quot; target=&quot;_blank&quot;&gt;不死鸟&lt;/a&gt;  
+    <subtitle>记录生活 || 更多精彩  友链 &lt;a href=&quot;https://iao.su/&quot; target=&quot;_blank&quot;&gt;不死鸟&lt;/a&gt;  &lt;a href=&quot;https://ajinworld.gitee.io&quot; target=&quot;_blank&quot;&gt;聚充站&lt;/a&gt;  
  &lt;a href=&quot;https://support.qq.com/products/351958/&quot; target=&quot;_blank&quot;&gt; 投稿&lt;/a&gt;</subtitle>
     <logo>https://ajin21.github.io/images/avatar.png</logo>
     <icon>https://ajin21.github.io/favicon.ico</icon>
