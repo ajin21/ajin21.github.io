@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ajin21.github.io</id>
     <title>阿金世界</title>
-    <updated>2021-09-22T12:29:27.682Z</updated>
+    <updated>2021-09-22T12:30:11.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ajin21.github.io"/>
     <link rel="self" href="https://ajin21.github.io/atom.xml"/>
@@ -17,9 +17,13 @@
         <link href="https://ajin21.github.io/post/9-yue-zi-yuan-hui-zong/">
         </link>
         <updated>2021-09-22T12:16:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>🤝每月资源汇总，希望大家多多分享，一起互助😜</p>
+        <summary type="html"><![CDATA[<blockquote>
+<p>🤝每月资源汇总，希望大家多多分享，一起互助😜</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<p>🤝每月资源汇总，希望大家多多分享，一起互助😜</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>🤝每月资源汇总，希望大家多多分享，一起互助😜</p>
+</blockquote>
 <!-- more -->
 <h2 id="9月23日">9月23日</h2>
 <p><a href=""></a></p>
