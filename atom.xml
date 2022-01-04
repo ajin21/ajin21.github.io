@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ajin21.github.io</id>
     <title>阿金世界</title>
-    <updated>2021-12-27T07:15:27.721Z</updated>
+    <updated>2022-01-04T08:02:53.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ajin21.github.io"/>
     <link rel="self" href="https://ajin21.github.io/atom.xml"/>
@@ -10,7 +10,7 @@
  &lt;a href=&quot;https://support.qq.com/products/351958/&quot; target=&quot;_blank&quot;&gt; 投稿&lt;/a&gt;</subtitle>
     <logo>https://ajin21.github.io/images/avatar.png</logo>
     <icon>https://ajin21.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 阿金世界</rights>
+    <rights>All rights reserved 2022, 阿金世界</rights>
     <entry>
         <title type="html"><![CDATA[资源目录]]></title>
         <id>https://ajin21.github.io/post/mu-lu/</id>
