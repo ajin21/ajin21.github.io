@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ajin21.github.io</id>
     <title>阿金世界</title>
-    <updated>2022-01-06T05:49:01.545Z</updated>
+    <updated>2022-01-06T05:56:19.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ajin21.github.io"/>
     <link rel="self" href="https://ajin21.github.io/atom.xml"/>
@@ -18,17 +18,18 @@
         </link>
         <updated>2022-01-06T03:35:24.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
-<p>🤝推荐使用搜索能更快找到资源😁</p>
+<p>🤝推荐使用搜索能更快找到资源😁,点击蓝字直达网站</p>
 </blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
-<p>🤝推荐使用搜索能更快找到资源😁</p>
+<p>🤝推荐使用搜索能更快找到资源😁,点击蓝字直达网站</p>
 </blockquote>
 <!-- more -->
-<!-- []() -->
 <h2 id="网页工具">网页工具</h2>
 <p><a href="http://lite.tonzhon.com/">在线听歌</a>：http://lite.tonzhon.com</p>
 <p><strong>聚合网易云、QQ音乐、酷狗音乐</strong> 热搜榜❤️，搜索歌、下载歌</p>
+<p><a href="http://www.wesane.com/game/921/">召唤神龙</a>：http://www.wesane.com/game/921/</p>
+<p>一款<strong>大鱼吃小鱼</strong>网页游戏</p>
 ]]></content>
     </entry>
     <entry>
