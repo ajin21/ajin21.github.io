@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ajin21.github.io</id>
     <title>阿金世界</title>
-    <updated>2022-01-04T08:02:53.654Z</updated>
+    <updated>2022-01-06T03:39:56.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ajin21.github.io"/>
     <link rel="self" href="https://ajin21.github.io/atom.xml"/>
@@ -12,22 +12,41 @@
     <icon>https://ajin21.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 阿金世界</rights>
     <entry>
+        <title type="html"><![CDATA[网页工具]]></title>
+        <id>https://ajin21.github.io/post/wang-ye-gong-ju/</id>
+        <link href="https://ajin21.github.io/post/wang-ye-gong-ju/">
+        </link>
+        <updated>2022-01-06T03:35:24.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>🤝推荐使用搜索能更快找到资源😁</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>🤝推荐使用搜索能更快找到资源😁</p>
+</blockquote>
+<!-- more -->
+<!-- []() -->!
+<h2 id="网页工具">网页工具</h2>
+<p><a href="http://lite.tonzhon.com/">在线听歌</a> <strong>聚合网易云、QQ音乐、酷狗音乐</strong> 热搜榜❤️，搜索歌、下载歌</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[资源目录]]></title>
         <id>https://ajin21.github.io/post/mu-lu/</id>
         <link href="https://ajin21.github.io/post/mu-lu/">
         </link>
         <updated>2021-12-27T07:07:34.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
-<p>🤝推荐使用搜索能更快找到资源</p>
+<p>🤝推荐使用搜索能更快找到资源😁</p>
 </blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
-<p>🤝推荐使用搜索能更快找到资源</p>
+<p>🤝推荐使用搜索能更快找到资源😁</p>
 </blockquote>
 <!-- more -->
 <!-- []() -->
-<h2 id="9月30日">9月30日</h2>
-<p><a href="https://www.aliyundrive.com/s/XhygwRuDAsY">飞卢小说TXT资源</a></p>
+<h2 id="网页工具">网页工具</h2>
+<p><a href="http://lite.tonzhon.com/">在线听歌</a> <strong>聚合网易云、QQ音乐、酷狗音乐</strong> 热搜榜，搜索歌、下载歌</p>
 ]]></content>
     </entry>
     <entry>
